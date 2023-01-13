@@ -1,5 +1,2 @@
-# References
+Hello World!
 
-* octocat 1 😈# References
-
-* octocat 1 😈
